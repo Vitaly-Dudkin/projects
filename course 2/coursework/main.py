@@ -6,8 +6,6 @@ def main():
     print('Введите имя игрока:')
     # создаем ЭК Player,артибуты: 1.имя(обязательный параметр) 2.пустой список(не обязательный параметр)
 
-    user_name = input()
-    while user_name.
     user_info = Player(input().capitalize().strip())
     # создаем переменную word_subwords помещаем туда ЭК BasicWord с атрибутами word and subwords
     word_subwords = load_random_word(lst_of_words)

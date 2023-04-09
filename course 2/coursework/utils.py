@@ -19,9 +19,6 @@ def load_random_word(lst_words):
     words = BasicWord(word.upper(), subwords)
     return words
 
-def user_name(name):
-    for i in name:
-        if i.
 # Напишите функцию `load_random_word()` в файле `utils`, которая:
 # - получит список слов с внешнего ресурса,
 # - выберет случайное слово,
