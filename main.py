@@ -1,5 +1,1 @@
-print('Hello, SkyPro!')
-
-
-def print_hi():
-    print('hi')
+print('Hello world!')
